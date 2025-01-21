@@ -121,6 +121,6 @@ fetch data using API and use in widget, live display by statechange
 
 [Live Demo](https://Niteshprajapati-git.github.io/chatbot/)
 
-## PreView
+
 
 
